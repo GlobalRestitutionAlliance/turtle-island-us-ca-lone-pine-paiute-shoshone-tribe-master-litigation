@@ -1,0 +1,12 @@
+{
+  "url": "https://www.ohchr.org/",
+  "final_url": "https://www.ohchr.org:443/en/ohchr_homepage",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 138771,
+  "sha256": "ba95e70ffcc1505f63da0573039fc35d6fb1fc1b6f51b4a8ae0a0ad2cc3ebbc4",
+  "captured_at": "2026-11-22T17:16:17.674812Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}
